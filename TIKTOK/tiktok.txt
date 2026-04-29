@@ -1,13 +1,42 @@
-# --- TikTok Core & Web ---
+# --- TikTok & Musical.ly Core ---
 *.tiktok.com
 *.tiktokv.com
-*.tiktoks.com
 *.tiktokcdn.com
+*.tiktoks.com
 *.tiktokstatic.com
+*.tiktokd.org
+*.musical.ly
+*.musically.com
 
-# --- Infraestructura ByteDance (TikTok) ---
+# --- Infraestructura ByteDance & CDNs ---
 *.byteoversea.com
+*.byteoversea.net
+*.byteimg.com
 *.ibyteimg.com
 *.ibytedtos.com
+*.pstatp.com
+*.ipstatp.com
+*.isnssdk.com
+*.sgsnssdk.com
+*.muscdn.com
+*.musemuse.cn
 *.myvcloud.com
-*.musically.com
+
+# --- Dominios de Transmisión y Red ---
+*.tlivecdn.com
+*.ttlivecdn.com
+*.ttoversea.net
+*.ttoverseaus.net
+*.ttwstatic.com
+
+# --- Subdominios específicos en CDNs externos ---
+# (Solo estos subdominios para no romper otros servicios en Akamai/Cloudflare)
+p16-tiktokcdn-com.akamaized.net
+tiktokcdn.com.atomile.com
+tiktokcdn-us.com.atomile.com
+tiktokcdn.com.c.bytetcdn.com
+tiktokcdn.com.c.worldfcdn.com
+tiktokv.com.c.worldfcdn.com
+tiktokv.com.c.worldfcdn2.com
+ttlivecdn.com.c.worldfcdn.com
+tiktokcdn.com.rocket-cdn.com
