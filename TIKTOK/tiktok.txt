@@ -1,0 +1,13 @@
+# --- TikTok Core & Web ---
+*.tiktok.com
+*.tiktokv.com
+*.tiktoks.com
+*.tiktokcdn.com
+*.tiktokstatic.com
+
+# --- Infraestructura ByteDance (TikTok) ---
+*.byteoversea.com
+*.ibyteimg.com
+*.ibytedtos.com
+*.myvcloud.com
+*.musically.com
