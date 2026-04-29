@@ -1,0 +1,16 @@
+## THIS BLOCK FACEBOOK & MESSENGER
+## BUT NOT THE MULTIMEDIA PART THAT COULD AFFECT WHATSAPP
+
+# --- Facebook Core ---
+*.facebook.com
+*.facebook.net
+*.fb.com
+*.fb.me
+*.fb.watch
+*.fb.gg
+*.facebookmail.com
+
+# --- Messenger ---
+*.messenger.com
+*.m.me
+*.msngr.com
