@@ -1,0 +1,10 @@
+## ONLY BLOCK FACEBOOK, BUT LET PEOPLE USE MESSENGER
+
+# --- Facebook Core ---
+*.facebook.com
+*.facebook.net
+*.fb.com
+*.fb.me
+*.fb.watch
+*.fb.gg
+*.facebookmail.com
