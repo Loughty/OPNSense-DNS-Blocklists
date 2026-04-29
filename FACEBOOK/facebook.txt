@@ -1,0 +1,19 @@
+# --- Facebook Core ---
+*.facebook.com
+*.facebook.net
+*.fb.com
+*.fb.me
+*.fb.watch
+*.fb.gg
+*.facebookmail.com
+
+# --- Messenger ---
+*.messenger.com
+*.m.me
+*.msngr.com
+
+# --- Contenido y Archivos (CAN AFFECT WHATSAPP) ---
+*.fbsbx.com
+*.tfbnw.net
+*.fbcdn.net
+*.edge-mqtt.facebook.com
