@@ -1,0 +1,9 @@
+# --- Instagram Core ---
+*.instagram.com
+*.instagr.am
+*.ig.me
+
+# --- Contenido y Estática ---
+*.cdninstagram.com
+*.igads.tv
+*.igsonar.com
